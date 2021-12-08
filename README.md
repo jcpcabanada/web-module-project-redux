@@ -23,6 +23,7 @@ In this project, you take a fairly complex application used to search a movie da
 * [ ] Download project dependencies by running `npm install``
 * [ ] Start up the app using `npm start`
 
+[comment]: <> (here)
 ### Task 2: Project Requirements
 #### Setup Redux
 > *The DOM and movie reducer has been provided for you, but it's up to to connect it to redux...*
